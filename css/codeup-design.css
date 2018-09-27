@@ -2,13 +2,19 @@ body, html {
     background-color: #e9ecef;
     font-family: Anton;
 }
-
+.container>img {
+    position: absolute;
+    border-radius: 60%;
+    left: 60px;
+}
+.navbar {
+    font-family: Abel;
+    margin-top: 2em;
+}
 .jumbotron {
     font: 64px ;
 }
-.badge-att {
 
-}
 .box-size {
     background-color: #e6563b;
     width: 180px;
@@ -20,6 +26,15 @@ body, html {
     left: 40px;
     font-size: 26px;
     color: white;
+}
+.c2 {
+    background-color: #EB9D3A;
+}
+.c3 {
+    background: #7CB06C;
+}
+.c4 {
+    background-color: #00ABA9;
 }
 .lab-pos {
     position: relative;
