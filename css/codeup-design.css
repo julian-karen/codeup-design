@@ -1,12 +1,60 @@
-/*extra-small*/
+body, html {
+    background-color: #e9ecef;
+    font-family: Anton;
+}
 
 .jumbotron {
     font: 64px ;
 }
-
-
+.badge-att {
 
 }
+.box-size {
+    background-color: #e6563b;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: .5em solid white;
+    position: relative;
+    bottom: 40px;
+    left: 40px;
+    font-size: 26px;
+    color: white;
+}
+.lab-pos {
+    position: relative;
+    top: 50px;
+    left: 42px;
+}
+.lab-pos1 {
+    position: relative;
+    top: 50px;
+    left: 37px;
+}
+.lab-pos2 {
+    position: relative;
+    top: 50px;
+    left: 37px;
+}
+.lab-pos3 {
+    position: relative;
+    top: 50px;
+    left: 53px;
+}
+.column.one-fourth {
+    width: 25%;
+}
+.column.one-half {
+    width: 50%;
+}
+.column.three-fourths {
+    width: 75%;
+}
+
+
+
+
+
 
 
 
