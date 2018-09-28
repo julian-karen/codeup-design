@@ -2,6 +2,17 @@ body, html {
     background-color: #e9ecef;
     font-family: Anton;
 }
+h1 {
+    font-size: 48px;
+}
+section {
+    display: flex;
+    justify-content: flex-start;
+}
+.container {
+    max-width: 100%;
+    height: ;
+}
 .container>img {
     position: absolute;
     border-radius: 60%;
@@ -18,10 +29,10 @@ body, html {
 
 .box-size {
     background-color: #e6563b;
-    width: 180px;
-    height: 180px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
-    margin: 1% auto;
+    margin: auto;
     border: .5em solid white;
     position: relative;
     /*bottom: 40px;*/ /*remove this*/
