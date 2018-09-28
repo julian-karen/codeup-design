@@ -1,5 +1,5 @@
 body, html {
-    background-color: #e9ecef;
+    background-color: #F0F0F0;
     font-family: Anton;
 }
 h1 {
@@ -9,9 +9,8 @@ section {
     display: flex;
     justify-content: flex-start;
 }
-.container {
-    max-width: 100%;
-    height: ;
+div .col-sm-6>img {
+    box-shadow: 0 0 1px 10px #E6E6E6;
 }
 .container>img {
     position: absolute;
@@ -23,9 +22,6 @@ section {
     margin-top: 2em;
     flex-wrap: wrap-reverse;
 }
-/*.jumbotron {*/ /*DO NOT NEED*/
-    /*font: 64px ;*/
-/*}*/
 
 .box-size {
     background-color: #e6563b;
@@ -54,62 +50,3 @@ section {
     top: 50px;
 
 }
-/*.lab-pos1 {*/ /*remove from here down*/
-    /*position: relative;*/
-    /*top: 50px;*/
-
-/*}*/
-/*.lab-pos2 {*/
-    /*position: relative;*/
-    /*top: 50px;*/
-
-/*}*/
-/*.lab-pos3 {*/
-    /*position: relative;*/
-    /*top: 50px;*/
-
-/*}*/
-.column.one-fourth {
-    width: 25%;
-}
-.column.one-half {
-    width: 50%;
-}
-.column.three-fourths {
-    width: 75%;
-}
-
-
-
-
-
-
-
-
-
-/*small*/
-
-
-
-
-
-
-
-/*medium*/
-
-
-
-
-
-
-
-/*large*/
-
-
-
-
-
-
-
-
-/*extra-large*/
