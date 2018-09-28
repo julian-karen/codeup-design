@@ -9,11 +9,12 @@ section {
     display: flex;
     justify-content: flex-start;
 }
-div .col-sm-6>img {
+div.col-6>img {
     box-shadow: 0 0 1px 10px #E6E6E6;
 }
+
 .container>img {
-    position: absolute;
+    position: relative;
     border-radius: 60%;
     left: 60px;
 }
@@ -22,7 +23,12 @@ div .col-sm-6>img {
     margin-top: 2em;
     flex-wrap: wrap-reverse;
 }
+.size {
+    width: 48px;
+    height: 48px;
 
+
+}
 .box-size {
     background-color: #e6563b;
     width: 150px;
