@@ -18,6 +18,9 @@ div.col-6>img {
     border-radius: 60%;
     left: 60px;
 }
+.circle {
+    border-radius: 50%;
+}
 .navbar {
     font-family: Abel;
     margin-top: 2em;
