@@ -26,8 +26,13 @@ div.col-6>img {
 .size {
     width: 80px;
     height: 80px;
-
-
+}
+.size2 {
+    width: 35px;
+    height: 25px;
+}
+.twitter-col {
+    padding: 0;
 }
 .box-size {
     background-color: #e6563b;
